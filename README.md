@@ -1,2 +1,2 @@
 # Prolog JSON Parser
-A terrible JSON Parser written in Prolog (Discontinued).
+A JSON Parser in Prolog. Not very good.
